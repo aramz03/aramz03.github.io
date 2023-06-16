@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'NanumBarunpen';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SLEIGothicTTF';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SLEIGothicTTF.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+// 공통변수설정
+$textMain: 'NanumBarunpen';
+$textBold: 'SLEIGothicTTF';
+$colorMain: #F95700;
+$colorSub: #FFE77A;
+$bgcMain: #f9f9f9;
+
